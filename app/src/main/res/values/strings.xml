@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DysTTS</string>
+    <string name="heading">Text to Speech</string>
+    <string name="hintfortext">Enter Text</string>
+    <string name="buttontext">Speak</string>
+</resources>
